@@ -21,3 +21,14 @@ Frontend: React.js
 Styling: Bootstrap 5 and custom CSS
 
 Hooks Used: useState, useCallback, useEffect, useRef
+
+------------
+---
+
+## 🚀 Live Project
+
+🌐 Visit it here: [https://password-generator18.vercel.app/](https://password-generator18.vercel.app/)
+
+---
+
+
